@@ -1,0 +1,27 @@
+.small_font_table{
+    font-size: 0.7em;
+}
+.custom-card-head{
+    padding:5px;
+    margin-top:5px;
+    margin-left:5px;
+}
+  
+  .number-animation {
+    animation: fadeIn 1s ease-in-out;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  
+  .chart-container {
+    width: 80%;
+    margin: 20px auto;
+}
